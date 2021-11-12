@@ -1,0 +1,6 @@
+.idea
+.vscode
+secure-connect-testdb.zip
+
+src/main/resources/application.properties
+target/
