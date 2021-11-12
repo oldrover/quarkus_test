@@ -20,7 +20,7 @@ import javax.inject.Inject;
  */
 @Generated(
     value = "com.datastax.oss.quarkus.internal.mapper.processor.mapper.QuarkusMapperGenerator",
-    date = "2021-11-12T09:28:02.382391Z"
+    date = "2021-11-12T09:52:31.594608Z"
 )
 @SuppressWarnings("all")
 public class FruitMapperProducer {
